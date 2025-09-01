@@ -4,7 +4,7 @@ This project demonstrates deploying a React application to a production-ready Ku
 Steps Completed
 1. Clone Application Repository
 
-We cloned the given React application repo and verified it runs on port 3000.
+I cloned the given React application repo and verified it runs on port 3000.
 
 git clone https://github.com/Vennilavan12/Trend.git
 cd Trend
